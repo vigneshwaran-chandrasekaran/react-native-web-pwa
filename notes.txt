@@ -1,0 +1,6 @@
+pwa
+
+https://dev.to/ankitkamboj18/making-react-app-a-progressive-web-app-pwa-46dk
+https://medium.com/@toricpope/transform-a-react-app-into-a-progressive-web-app-pwa-dea336bd96e6
+https://blog.logrocket.com/setting-up-a-pwa-with-service-workers-and-create-react-app/
+https://www.section.io/engineering-education/react-progressive-web-application/
