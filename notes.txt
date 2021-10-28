@@ -4,3 +4,15 @@ https://dev.to/ankitkamboj18/making-react-app-a-progressive-web-app-pwa-46dk
 https://medium.com/@toricpope/transform-a-react-app-into-a-progressive-web-app-pwa-dea336bd96e6
 https://blog.logrocket.com/setting-up-a-pwa-with-service-workers-and-create-react-app/
 https://www.section.io/engineering-education/react-progressive-web-application/
+
+
+[-------]
+
+
+offline app using pouchDB
+https://stories.jotform.com/offline-first-web-applications-d2d321444510
+https://pouchdb.com/
+
+
+https://systango.medium.com/embrace-offline-first-approach-to-make-your-react-apps-offline-sync-compatible-412e1e21dd99
+https://www.npmjs.com/package/react-offline-sync
