@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-native-web-pwa/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/react-native-web-pwa/static/js/main.039d7345.chunk.js",
+    "main.js.map": "/react-native-web-pwa/static/js/main.039d7345.chunk.js.map",
+    "runtime-main.js": "/react-native-web-pwa/static/js/runtime-main.e35234d3.js",
+    "runtime-main.js.map": "/react-native-web-pwa/static/js/runtime-main.e35234d3.js.map",
+    "static/js/2.4b76bb97.chunk.js": "/react-native-web-pwa/static/js/2.4b76bb97.chunk.js",
+    "static/js/2.4b76bb97.chunk.js.map": "/react-native-web-pwa/static/js/2.4b76bb97.chunk.js.map",
+    "static/js/3.e888a8a9.chunk.js": "/react-native-web-pwa/static/js/3.e888a8a9.chunk.js",
+    "static/js/3.e888a8a9.chunk.js.map": "/react-native-web-pwa/static/js/3.e888a8a9.chunk.js.map",
+    "index.html": "/react-native-web-pwa/index.html",
+    "service-worker.js": "/react-native-web-pwa/service-worker.js",
+    "service-worker.js.map": "/react-native-web-pwa/service-worker.js.map",
+    "static/css/main.8c8b27cf.chunk.css.map": "/react-native-web-pwa/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.4b76bb97.chunk.js.LICENSE.txt": "/react-native-web-pwa/static/js/2.4b76bb97.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e35234d3.js",
+    "static/js/2.4b76bb97.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.039d7345.chunk.js"
+  ]
+}
