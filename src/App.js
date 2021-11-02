@@ -1,6 +1,6 @@
 import React from "react";
 import { BrowserRouter as Router, Link, Route, Switch } from "react-router-dom";
-import PouchDB from "./components/PouchDB";
+import PouchDBExample from "./components/PouchDB";
 import ReactNativeWeb from "./components/ReactNativeWeb";
 
 function App() {
@@ -28,7 +28,7 @@ function App() {
             <ReactNativeWeb />
           </Route>
           <Route path="/PouchDB">
-            <PouchDB />
+            <PouchDBExample />
           </Route>
           <Route path="/">
             <Home />
