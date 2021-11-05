@@ -2,6 +2,7 @@ import React from "react";
 import { BrowserRouter, Link, Route, Switch } from "react-router-dom";
 import PouchDBExample from "../components/PouchDB";
 import ReactNativeWeb from "../components/ReactNativeWeb";
+import { Swipe } from "../pages";
 
 function Router() {
   return (
@@ -18,6 +19,9 @@ function Router() {
             <li>
               <Link to="/PouchDB">PouchDB</Link>
             </li>
+            <li>
+              <Link to="/Swipe">Swipe</Link>
+            </li>
           </ul>
         </nav>
 
@@ -29,6 +33,9 @@ function Router() {
           </Route>
           <Route path="/PouchDB">
             <PouchDBExample />
+          </Route>
+          <Route path="/Swipe">
+            <Swipe />
           </Route>
           <Route path="/">
             <Home />
