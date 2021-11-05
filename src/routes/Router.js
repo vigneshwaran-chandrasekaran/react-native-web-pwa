@@ -1,11 +1,11 @@
 import React from "react";
-import { BrowserRouter as Router, Link, Route, Switch } from "react-router-dom";
-import PouchDBExample from "./components/PouchDB";
-import ReactNativeWeb from "./components/ReactNativeWeb";
+import { BrowserRouter, Link, Route, Switch } from "react-router-dom";
+import PouchDBExample from "../components/PouchDB";
+import ReactNativeWeb from "../components/ReactNativeWeb";
 
-function App() {
+function Router() {
   return (
-    <Router>
+    <BrowserRouter>
       <div>
         <nav>
           <ul>
@@ -35,12 +35,12 @@ function App() {
           </Route>
         </Switch>
       </div>
-    </Router>
+    </BrowserRouter>
   );
 }
 
 function Home() {
-  return <h2>Home</h2>;
+  return <h2>Home Page</h2>;
 }
 
-export default App;
+export default Router;
